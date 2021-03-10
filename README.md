@@ -1,4 +1,4 @@
-##API used: 
+## API used: 
 https://covid19.mathdro.id/api
 
 # Getting Started with Create React App
